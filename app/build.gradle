@@ -4,7 +4,7 @@ apply plugin: 'kotlin-android-extensions'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.1"
+    buildToolsVersion "26.1.1"
     defaultConfig {
         applicationId "org.teamblueridge.pasteitapp"
         minSdkVersion 19
